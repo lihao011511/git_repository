@@ -1,0 +1,6 @@
+com\usian\service\impl\OrderServiceImpl.class
+com\usian\mq\MQSender.class
+com\usian\service\LocalMessageService.class
+com\usian\service\OrderService.class
+com\usian\OrderServiceApp.class
+com\usian\service\impl\LocalMessageServiceImpl.class
